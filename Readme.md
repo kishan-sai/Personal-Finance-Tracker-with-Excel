@@ -2,13 +2,10 @@
 
 ![Income Tracker Screenshot](Income_Tracker.png)
 
-A smart, self-updating Excel dashboard that helps individuals take control of their personal finances. Track income and expenses, monitor savings, and uncover spending habits—all in one intuitive, visual tool.
-
 ## 🧾 Project Overview
 
 This project involves **fully interactive Excel dashboard** designed to track personal finances, categorize transactions, and visualize income and expenses. It empowers individuals to take control of their budget and financial decisions using data analytics—no third-party apps or complex tools required.
 
----
 
 ## 🎯 Objectives
 
@@ -19,7 +16,6 @@ To create a **user-friendly, Excel-based personal finance dashboard** that allow
 - Identify financial leaks and saving opportunities
 - Make informed budgeting decisions month-over-month
 
----
 
 ## 🧰 Tools Used
 
@@ -30,7 +26,6 @@ To create a **user-friendly, Excel-based personal finance dashboard** that allow
   - Dynamic Ranges
   - Charting Tools
 
----
 
 ## 🛠 Key Features
 
@@ -49,7 +44,6 @@ To create a **user-friendly, Excel-based personal finance dashboard** that allow
 - 📅 **Monthly Transaction Templates**  
   Structured input sheets for maintaining month-over-month consistency
 
----
 
 ## 🔎 How It Works
 
@@ -58,7 +52,6 @@ To create a **user-friendly, Excel-based personal finance dashboard** that allow
 3. Dashboard in `Report` sheet updates in real-time—no macros or coding needed.
 4. Use `Nov Data` sheet as a template to maintain monthly data for analysis.
 
----
 
 ## 🔍 Insights Unlocked
 
@@ -68,7 +61,6 @@ To create a **user-friendly, Excel-based personal finance dashboard** that allow
 - **Income Streams:** Breakdown of salary, side hustles, and passive income
 - **Planning Opportunities:** Use historic data to guide future budgets
 
----
 
 ## 🚀 Applications
 
@@ -76,7 +68,6 @@ To create a **user-friendly, Excel-based personal finance dashboard** that allow
 - **Personal use** to track and optimize your finances
 - **Educational tool** to teach others how to apply data analysis in real life
 
----
 
 ## 🎓 Skills Demonstrated
 
@@ -86,7 +77,6 @@ To create a **user-friendly, Excel-based personal finance dashboard** that allow
 - **Financial Data Interpretation & Visualization**
 - **Self-Service Analytics with No-Code Tools**
 
----
 
 ## 📈 Future Enhancements
 
