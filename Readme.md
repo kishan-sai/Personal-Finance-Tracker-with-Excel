@@ -1,9 +1,8 @@
 # 💰 Personal Finance Tracker – Excel Dashboard
 
-![Income Tracker Screenshot](Income_Tracker.png)
-
 A smart, self-updating Excel dashboard that helps individuals take control of their personal finances. Track income and expenses, monitor savings, and uncover spending habits—all in one intuitive, visual tool.
 
+![Income Tracker Screenshot](Income_Tracker.png)
 ---
 
 ## 🎯 Objective
